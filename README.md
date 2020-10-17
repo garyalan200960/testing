@@ -1,2 +1,3 @@
 # testing
 set up to learn application
+As I continue my journey as an entrepreneur, new skills and skillsets are required. This is one of these! Here we go...
